@@ -20,17 +20,14 @@ this by maintaining a growth environment.
 machine-learning model performance.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### ASHRAE Great Energy Predictor III – Using Deep Learning
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Publication]((https://medium.com/@m.saad.ce/imdb-movies-dataset-analysis-using-excel-pivot-tables-3e8b3464a4e1))
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+Designed and implemented a robust pipeline to tackle the challenging task of predicting building energy consumption. Engineered features such as temporal trends and weather patterns, and optimized advanced machine learning models like LightGBM, XGBoost, CatBoost, and Feedforward Neural Networks.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+Streamlined data preprocessing by resolving missing weather data, handling anomalies, and addressing outliers. Conducted rigorous hyperparameter tuning and validation to enhance model performance. Demonstrated the ability to extract actionable insights from complex datasets and deliver accurate, scalable energy forecasting solutions.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 
 - [Data Science Udemy Course](https://www.udemy.com/course/data-analysis-for-complete-beginners))
